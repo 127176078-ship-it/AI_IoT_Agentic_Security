@@ -1,0 +1,14 @@
+flask
+pandas
+numpy
+scikit-learn
+joblib
+xgboost
+langgraph
+requests
+python-dotenv
+scapy
+shap
+pytest
+matplotlib
+beautifulsoup4

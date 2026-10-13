@@ -1,0 +1,7 @@
+{
+  "training_samples": 82332,
+  "normal_training_samples": 37000,
+  "testing_samples": 175341,
+  "isolation_anomaly_rate": 0.27949538328171963,
+  "reconstruction_anomaly_rate": 0.012854951209357765
+}
